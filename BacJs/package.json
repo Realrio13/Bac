@@ -1,0 +1,16 @@
+{
+    "name": "bac-js",
+    "bin": "app.js",
+    "version": "0.0.0",
+    "description": "BacJs",
+    "main": "app.js",
+    "author": {
+        "name": ""
+    },
+    "dependencies": {
+        "@abandonware/noble": "^1.9.2-14"
+    },
+    "scripts": {
+        "build": "nexe -r node_modules/**/* -t linux-x86"
+    }
+}

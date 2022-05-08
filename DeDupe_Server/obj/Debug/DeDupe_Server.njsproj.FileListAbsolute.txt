@@ -1,0 +1,3 @@
+C:\Bac\DeDupe_Server\obj\Debug\DeDupe_Server.njsproj.AssemblyReference.cache
+C:\Bac\DeDupe_Server\obj\Debug\DeDupe_Server.njsproj.CoreCompileInputs.cache
+C:\Bac\DeDupe_Server\bin\Microsoft.NodejsTools.WebRole.dll

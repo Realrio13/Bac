@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Rižmo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rižmo\\.nuget\\packages"
+    ]
+  }
+}

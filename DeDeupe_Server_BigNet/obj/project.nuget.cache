@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/BjVroIzGZWDSVfMOuRRrX/MJiF0WiFbsfCi3NHzQXQ7pKpMO+R0IGqNj84kTyF106+KJXakgXBFX455LSc/g==",
+  "success": true,
+  "projectFilePath": "C:\\Bac\\DeDeupe_Server_BigNet\\DeDeupe_Server_BigNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rižmo\\.nuget\\packages\\mysqlconnector\\2.1.8\\mysqlconnector.2.1.8.nupkg.sha512",
+    "C:\\Users\\Rižmo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "name": "de-dupe_server",
+  "version": "0.0.0",
+  "description": "DeDupe_Server",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}

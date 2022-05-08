@@ -1,0 +1,3 @@
+C:\Bac\BacJs\obj\Debug\BacJs.njsproj.AssemblyReference.cache
+C:\Bac\BacJs\obj\Debug\BacJs.njsproj.CoreCompileInputs.cache
+C:\Bac\BacJs\bin\Microsoft.NodejsTools.WebRole.dll
